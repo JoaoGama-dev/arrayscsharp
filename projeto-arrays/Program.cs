@@ -24,7 +24,7 @@ namespace projeto_arrays
             Console.WriteLine(" A soma é " + soma );
 
             Console.WriteLine(" Exercicio 2, favor vá teclando ENTER até a resolução ");
-            for (int i = 0; i < 101; i++)
+            for (int i = 0; i < 100; i++)
             {
                 if (i % 3 == 0)
                 {
